@@ -1,0 +1,25 @@
+ /* Basic CSS for styling */
+ Body {font-family: sans-serif; margin: 20px}
+ h1, h2 {color: #000000}
+ .section {
+     margin-bottom: 15px;
+     border-bottom: 1px solid #44bbdf;
+     padding-bottom: 10px;
+          }
+ .contact-info p, .skill-item, .eprerience-item p, .education-item p {margin: 5px 0;}
+
+ .container{
+    display: flex;
+    flex-direction: row;
+    gap: 65px;
+}
+
+.right-div{
+    margin-top: 25px;
+}
+
+img{
+   border-radius: 50%; width: 200px; height: 200px;
+   }
+
+   
